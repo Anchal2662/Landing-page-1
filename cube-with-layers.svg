@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="43.376" height="37.954" viewBox="0 0 43.376 37.954">
+  <g id="cube-with-layers" transform="translate(0 -2)">
+    <g id="layers" transform="translate(0 2)">
+      <g id="Group_12354" data-name="Group 12354">
+        <path id="Path_8404" data-name="Path 8404" d="M0,22l21.688,5.422L43.376,22v5.422L21.688,32.844,0,27.422Z" transform="translate(0 5.11)" fill="#0d2b51"/>
+        <path id="Path_8405" data-name="Path 8405" d="M0,14l21.688,5.422L43.376,14v5.422L21.688,24.844,0,19.422Z" transform="translate(0 2.266)" fill="#00d563"/>
+        <path id="Path_8406" data-name="Path 8406" d="M0,7.422,21.688,2,43.376,7.422v5.422L21.688,18.266,0,12.844Z" transform="translate(0 -2)" fill="#0d2b51"/>
+      </g>
+    </g>
+  </g>
+</svg>
