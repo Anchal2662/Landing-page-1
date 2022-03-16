@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Fredoka', sans-serif;
+
+}
+.part11 .img{
+    margin: auto ; 
+    text-align: center;
+    line-height: 720px;
+    
+    opacity: 1;
+    position: relative;
+    
+}
+.part11 p{
+    line-height: 720px;
+    vertical-align: middle;
+    display: inline-block;
+    text-align: center;
+    font-weight: 500;
+    font-size: 28px;
+    margin: auto;
+    position: relative;
+    
+}
+
+.part11 .image4{
+    background-image: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0)), url(../img/Rectangle\ 1483.svg);
+    
+    background-size: cover;
+    top: 4961px;
+    left: 100px;
+    width: 1440px;
+    height: 544px;
+    /* UI Properties */
+    background: transparent url('img/Rectangle 1483.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+    
+}
+
+
+.part11 .card-wrap2{
+     
+    padding: 10px 20px;
+    /* width: 100%; */
+    display: flex;
+    position: relative;
+    top: -500px;
+    
+    
+    
+    /* justify-content: space-between; */
+    
+}
+/*  */
+.card-wrap2 .card-item2{
+    padding: 35px 50px;
+    width: 25%;
+    /* position: relative; */
+    
+    
+}
+
+.card-wrap2 .card-inner2{
+    padding: 35px 20px;
+    min-width: 35px;
+    min-height: 35px;
+    width: 100%;
+}
+.card-wrap2 .card-inner2 img{
+    width: 62px;
+    height: 62px;
+    margin: 55px;
+    float: left;
+    
+    
+}
+.card-wrap2 .card-inner2 .head2{
+    
+    top: 5040px;
+    left: 185px;
+    width: 222px;
+    height: 22px;
+    margin: 15px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 600 20px/24px Gilroy ☞;
+    letter-spacing: 0.2px;
+    color: #000000;
+    opacity: 1;
+    overflow: hidden;
+    font-size: 20px;
+}
+.card-wrap2 .card-inner2 .content2{
+    top: 5086px;
+    left: 185px;
+    width: 276px;
+    height: 133px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal medium 18px/27px Gilroy ☞;
+    letter-spacing: 0.09px;
+    color: #707070;
+    opacity: 1;
+    font-size: 18px;
+}

@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Fredoka', sans-serif;
+
+}
+.body{
+    /* top: 614px;
+    left: 0px;
+    width: 1440px;
+    height: 289px; 
+    /* background: transparent url('img/Mask Group 109.png') 0% 0% no-repeat padding-box; */
+    
+    background-image: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0)), url(../img/Mask\ Group\ 109.svg);
+    background-position: center;
+    background-size: cover;
+    position: relative; 
+
+}
+.centered{
+    width: 100%;
+    color: #fff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
+.centered h4{
+    padding: 28px 50px;
+    font-size: 28px;
+    font-weight: 500;
+    text-align: middle;
+    
+}
+.centered p{
+    padding: 25px 25px;
+    font-size: 18px;
+    color: #fff;
+    
+}
+ .centered .gr-btn{
+    top: 782px;
+    left: 635px;
+    width: 170px;
+    height: 65px;
+    display: inline-block;
+    text-decoration: none;
+    color: #000000;
+    border: 1px solid #fff;
+    padding: 10px 10px; 
+    font-size: 18px;
+    background-color: #fff;
+    border-radius: 7px;
+    cursor: pointer;
+
+
+}
+.btn-icn{
+
+    top: 806px;
+    left: 761px;
+    width: 20px;
+    height: 19px;
+    /* UI Properties */
+    /* background: transparent url('../img/contact.svg') 0% 0% no-repeat padding-box; */
+    opacity: 1;
+}
+
+@media screen and (max-width: 800px){
+    .body,.centered, .centered h4, .centered p, .centered .gr-btn{
+        max-width: 100%;
+        
+    }
+}

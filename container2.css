@@ -1,0 +1,70 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Fredoka', sans-serif;
+
+}
+
+    
+.container2 .image2{
+    
+    
+    width: 100px;
+    height: 628px;
+    position: absolute;
+    bottom: 200px;
+    left: 130px;
+    top: 3646px;
+    background-size: cover;
+    /* UI Properties */
+    opacity: 1;
+}
+.container2 .card2{
+    position: relative;
+    max-width: 750px;
+    
+    padding: 5px;
+    /* display: flex; */
+}
+.container2 .card2 .imgbxx{
+    max-width: 47px;
+    position: relative;
+    bottom: 300px;
+    left: 610px;
+    
+    
+    /* flex: 0 0 150px; */
+}
+.container2 .card2 .imgbxx img{
+    max-width: 100%;
+    position: absolute;
+    top: 5px;
+    left: 0px;
+    width: 74px;
+    height: 74px;
+    padding-left: 0px;
+    /* UI Properties */
+    /* background: transparent url('img/Group 12311.png') 0% 0% no-repeat padding-box;
+    opacity: 1;  */
+}
+
+.container2 .card2 .imgbxx p{
+    top: 5px;
+    left: 11px;
+    width: 400px;
+    height: 83px;
+    font-weight: 400px;
+    /* UI Properties */
+    font-size: 18px;
+    text-align: left;
+    font: normal normal medium 18px/27px Gilroy ☞;
+    letter-spacing: 0.09px;
+    color: #000000;
+    opacity: 1;
+    
+    font-size: 18px;
+    padding-left: 80px;
+    
+}
+

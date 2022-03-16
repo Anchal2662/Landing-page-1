@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Fredoka', sans-serif;
+
+}
+.part14 img{
+    margin: auto; 
+    text-align: center;
+    line-height: 720px;
+    
+    opacity: 1;
+    position: absolute;
+    top: 7035px;
+    left: 560px;
+    width: 56px;
+    height: 56px;
+    
+
+}
+.part14 p{
+    line-height: 720px;
+    /* vertical-align: middle; */
+    /* display: inline-block; */
+    
+    font-weight: 900px;
+    font-size: 28px;
+    margin: auto;
+    position: absolute;
+    top: 6700px;
+    left: 640px;
+    width: 486px;
+    height: 41px;
+
+    
+
+}

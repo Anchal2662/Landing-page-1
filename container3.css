@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Fredoka', sans-serif;
+
+}
+.container3{
+    display: table;
+    position: relative;
+    min-height: 800px;
+    justify-content: space-between;
+    align-items: left;
+    /* flex-wrap: wrap; */
+    
+
+}
+.container3 .image3{
+    
+    left: 844px;
+    width: 596px;
+    height: 628px;
+    position: absolute;
+    bottom: 380px;
+    right: 120px;
+    /* UI Properties */
+    background: transparent url('img/Group 12310.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.container3 .card3{
+    position: relative;
+    max-width: 750px;
+    margin: 20px;
+    padding: 15px;
+    /* display: flex; */
+}
+.container3 .card3 .imgbx3{
+    max-width: 74px;
+    position: relative;
+    bottom: -400px;
+    text-align: left;
+    left: -10px;
+    /* width: 42px;
+    height: 42px;
+    flex: 0 0 150px; */
+}
+.container3 .card3 .imgbx3 img{
+    max-width: 100%;
+    position: absolute;
+    top: 5px;
+    left: 0px;
+    width: 42px;
+    height: 42px;
+    padding-left: 0px;
+    /* UI Properties */
+    /* background: transparent url('img/Group 12311.png') 0% 0% no-repeat padding-box;
+    opacity: 1;  */
+}
+.container3 h3{
+    top: 1930px;
+    left: 11px;
+    width: 290px;
+    height: 22px; 
+    
+    
+    /* UI Properties */
+    font-size: 20px;
+    text-align: left;
+    font: normal normal 600 20px/24px Gilroy ☞;
+    letter-spacing: 0.2px;
+    color: #000000;
+    opacity: 1;
+    padding-left: 100px;
+    padding-bottom: 12px;
+}
+.container3 .card3 .imgbx3 p{
+    top: 1970px;
+    left: 11px;
+    width: 469px;
+    height: 83px;
+    
+    /* UI Properties */
+    font-size: 18px;
+    text-align: left;
+    font: normal normal medium 18px/27px Gilroy ☞;
+    letter-spacing: 0.09px;
+    color: #707070;
+    opacity: 1;
+    font-size: 18px;
+    padding-left: 100px;
+    
+}
+

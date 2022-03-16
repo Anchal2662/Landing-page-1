@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Fredoka', sans-serif;
+
+}
+.part8 .img{
+    margin: auto ; 
+    text-align: center;
+    line-height: 720px;
+    /* top: 0px;
+    left: 377px;
+    width: 800px;
+    height: 41px; */
+    background: transparent url('img/Group 12312.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: relative;
+    
+}
+.part8 p{
+    line-height: 720px;
+    vertical-align: middle;
+    display: inline-block;
+    text-align: center;
+    font-weight: 500;
+    font-size: 28px;
+    margin: auto;
+    position: relative;
+    
+}
+
+
+

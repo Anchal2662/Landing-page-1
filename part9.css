@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Fredoka', sans-serif;
+
+}
+
+.part9 .image3{
+    background-size: cover;
+    top: 4429px;
+    left: 100px;
+    width: 1440px;
+    height: 332px;
+    position: absolute;
+    
+}
+
+.part9 .card-wrap{
+     
+    padding: 10px 20px;
+    /* width: 100%; */
+    display: flex;
+    position: relative;
+    top: -250px;
+    
+    
+    /* justify-content: space-between; */
+    
+}
+.card-wrap .card-item{
+    padding: 15px 15px;
+    width: 25%;
+    position: relative;
+    
+    
+}
+
+.card-wrap .card-inner{
+    padding: 35px 20px;
+    min-width: 35px;
+    min-height: 35px;
+    width: 100%;
+}
+.card-wrap .card-inner img{
+    width: 62px;
+    height: 62px;
+    margin-right: 5px;
+    float: left;
+    
+    
+}
+.card-wrap .card-inner .head{
+    
+    width: 200px;
+    height: 71px;
+    text-align: left;
+    font-size: 58px;
+    font-weight: 600px;
+    font: normal normal 600 58px/62px Gilroy ☞;
+    letter-spacing: 0px;
+    color: #fff;
+    opacity: 1;
+    overflow: hidden;
+}
+.card-wrap .card-inner .content{
+    width: 300px;
+    height: 25px;
+    font-size: 21px;
+    font-weight: 100px;
+
+    /* UI Properties */
+    text-align: left;
+    font: normal normal medium 21px/34px Gilroy ☞;
+    letter-spacing: 0px;
+    color: #fff;
+    opacity: 1;
+}

@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Fredoka', sans-serif;
+
+}
+.part12 .img5{
+    margin: auto ; 
+    text-align: center;
+    line-height: 720px;
+    
+    opacity: 1;
+    position: relative;
+    
+}
+.part12 p{
+    line-height: 720px;
+    vertical-align: middle;
+    display: inline-block;
+    text-align: center;
+    font-weight: 500;
+    font-size: 28px;
+    margin: auto;
+    position: relative;
+    
+}
+.part12 .image6 {
+    position: absolute;
+    top: 6000px;
+    left: 20px;
+    width: 100px;
+    height: 544px;
+    /* UI Properties */
+    background: transparent url('img/Rectangle 1483.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+    
+}
+.part12 .image7{
+    position: absolute;
+    top: 6000px;
+    right: 80px;
+    width: 100px;
+    height: 544px;
+    /* UI Properties */
+    background: transparent url('img/Rectangle 1483.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    
+    
+}
+
+
+
+.part12 .card-wrap3{
+    display: inline-flex;
+    padding: 40px 40px;
+    width: 100%;
+    display: flex;
+    position: relative;
+    top: -350px;
+    left: 150px;
+    flex-wrap: wrap;
+    
+    
+    border-radius: 7px;
+    /* justify-content: space-between; */
+    
+}
+/*  */
+.card-wrap3 .card-item3{
+    padding: 35px 50px;
+    width: 25%;
+    border: 1px #000000;
+    
+    /* position: relative; */
+    
+    
+}
+
+.card-wrap3 .card-inner3{
+    padding: 35px 20px;
+    min-width: 35px;
+    min-height: 35px;
+    width: 100%;
+    
+}
+.card-wrap3 .card-inner3 img{
+    width: 62px;
+    height: 62px;
+    margin: 20px;
+    float: left;
+
+    
+    
+}
+.card-wrap3 .card-inner3 .head3{
+    
+    overflow: hidden;
+    top: 5539px;
+    left: 380px;
+    width: 223px;
+    height: 22px;
+    margin: 10px;
+    /* UI Properties */
+    text-align: left;
+    font-size: 20px;
+    font: normal normal 600 20px/24px Gilroy ☞;
+    letter-spacing: 0.2px;
+    color: #000000;
+    opacity: 1;
+}
+.card-wrap3 .card-inner3 .content3{
+    top: 5576px;
+    left: 380px;
+    width: 279px;
+    height: 133px;
+    font-size: 18px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal medium 18px/27px Gilroy ☞;
+    letter-spacing: 0.09px;
+    color: #707070;
+    opacity: 1;
+}
